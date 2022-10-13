@@ -2,3 +2,4 @@ Creacion de archivos
 Aplicacion de los estilos
 Agragando contenido y correcion de estilos
 Experimento de configuracion alterna
+El experimento fue todo un éxito así que lo vamos aunir al master luego

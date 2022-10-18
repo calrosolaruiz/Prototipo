@@ -1,6 +1,6 @@
-Creación de archivos
-Aplicacion de los estilos
-Agragando contenido y correción de estilos
-Experimento de configuración alternativa
+Creación de archivos.
+Aplicación de los estilos.
+Agregando contenido y correción de estilos.
+Experimento de configuración alternativa.
 El experimento fue todo un éxito así que lo vamos integrar al master después.
 Ya todo está integrado.
